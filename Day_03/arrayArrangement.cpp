@@ -1,3 +1,4 @@
+//https://www.geeksforgeeks.org/rearrange-array-arri-arrj-even-arri/
 #include<iostream>
 using namespace std;
 

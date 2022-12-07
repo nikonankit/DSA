@@ -1,3 +1,4 @@
+//https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/
 // Array is a collection of contiguous memory location. 
 // The idea is to store multiple items of same type. 
 // Address calculation by adding the value to bas address. 

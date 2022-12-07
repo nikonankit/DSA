@@ -1,6 +1,6 @@
 // generic linkedList 
 // check data copy for each byte line:16
-
+//https://www.geeksforgeeks.org/generic-linked-list-in-c-2/
 #include<iostream>
 using namespace std;
 
