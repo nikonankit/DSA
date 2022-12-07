@@ -1,3 +1,6 @@
+// generic linkedList 
+// check data copy for each byte line:16
+
 #include<iostream>
 using namespace std;
 
